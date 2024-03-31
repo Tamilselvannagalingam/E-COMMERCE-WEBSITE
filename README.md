@@ -4,19 +4,17 @@
  
  
 ### Home page
-![1](https://user-images.githubusercontent.com/17312616/65086776-b1beb080-d9d0-11e9-9983-143d61ed8fdc.png)
+![Screenshot 2024-03-31 201607](https://github.com/Tamilselvannagalingam/E-COMMERCE-WEBSITE/assets/165294958/02670a98-2f82-4ee5-b1a8-a4d90a881c59)
+
 
 
 
 ### Content Description page
-![2](https://user-images.githubusercontent.com/17312616/65086777-b1beb080-d9d0-11e9-9e2b-af3b7210bdf3.png)
+![Screenshot 2024-03-31 201632](https://github.com/Tamilselvannagalingam/E-COMMERCE-WEBSITE/assets/165294958/0dd133e6-8fe0-48f4-a632-0a8c0d34f008)
 
 
 
-### Ordered List page
-![3](https://user-images.githubusercontent.com/17312616/65086778-b2574700-d9d0-11e9-9377-8e4886f582a8.png)
 
 
-
-### Order confirm page
-![4](https://user-images.githubusercontent.com/17312616/65086779-b2efdd80-d9d0-11e9-95d5-4b1a48eafe04.png)
+### Footer
+![Screenshot 2024-03-31 202021](https://github.com/Tamilselvannagalingam/E-COMMERCE-WEBSITE/assets/165294958/dccc9144-d7ba-4ffb-8e0a-9556c2c3fb87)
